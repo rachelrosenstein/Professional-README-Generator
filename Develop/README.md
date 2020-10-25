@@ -1,12 +1,12 @@
 
 
-    ### SAMPLE READ ME
+# SAMPLE READ ME
 
-    ### Title of Project:
-    - Dogs and Cats
+## Title of Project:
+- Dogs and Cats
     
-    ### Description: 
-    - Talking about dogs and cats
+## Description: 
+- Talking about dogs and cats
     
     ### Installation Instructions:
     - click and save pictures
