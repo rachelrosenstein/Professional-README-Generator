@@ -1,9 +1,10 @@
 # Professional-README-Generator
 
 ## Description:
-Creating a good README.md file is essential when working on any type of project.
+Creating a good README.md file is essential when working on any type of project. A command-line application will allow for quick and easy generation of a project README to get started quickly. This will allow a project creator to spend more time working on finishing the project and less time creating a good README.
 
 ## Walkthrough Demonstration:
+https://www.google.com/url?sa=i&url=https%3A%2F%2Ficatcare.org%2Fadvice%2Fthinking-of-getting-a-cat%2F&psig=AOvVaw32MTsx5J1_jUictbzW9Y87&ust=1603728999538000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjBy5yS0OwCFQAAAAAdAAAAABAD
 
 ## Sample README file:
 

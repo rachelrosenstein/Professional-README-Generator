@@ -46,6 +46,9 @@ function promptUser() {
 
 function generateMD(answers) {
     return `
+
+    ### SAMPLE READ ME
+
     ### Title of Project:
     - ${answers.title}
     
