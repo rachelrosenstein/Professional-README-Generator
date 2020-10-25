@@ -46,19 +46,26 @@ function promptUser() {
 
 function generateMD(answers) {
     return `
-    Title of Project: ${answers.title}
+    ### Title of Project:
+    - ${answers.title}
     
-    Description: ${answers.description}
+    ### Description: 
+    - ${answers.description}
     
-    Installation Instructions: ${answers.installation}
+    ### Installation Instructions:
+    - ${answers.installation}
     
-    Usage: ${answers.usage}
+    ### Usage: 
+    - ${answers.usage}
     
-    Credits: ${answers.credits}
+    ### Credits: 
+    - ${answers.credits}
     
-    License: ${answers.License}
+    ### License: 
+    - ${answers.License}
     
-    Github Username: ${answers.github}
+    ### Github Username: 
+    - ${answers.github}
     `
         ;
 }
