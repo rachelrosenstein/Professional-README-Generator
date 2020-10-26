@@ -4,7 +4,9 @@
 Creating a good README.md file is essential when working on any type of project. A command-line application will allow for quick and easy generation of a project README to get started quickly. This will allow a project creator to spend more time working on finishing the project and less time creating a good README.
 
 ## Walkthrough Demonstration:
-check out this video:
+Check out this video:
+
+[![Demonstration Walkthrough Video](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg)](https://drive.google.com/file/d/1xE_T3Tnt--DReXZiyQIyAj9ZUacL7I80/view)
 
 
 ## Screenshot of Sample README.md
