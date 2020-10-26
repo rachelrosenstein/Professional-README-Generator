@@ -6,7 +6,7 @@ Creating a good README.md file is essential when working on any type of project.
 ## Walkthrough Demonstration:
 Check out this video:
 
-[![Demonstration Walkthrough Video](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg)](https://drive.google.com/file/d/1xE_T3Tnt--DReXZiyQIyAj9ZUacL7I80/view)
+[![Demonstration Walkthrough Video](https://github.com/rachelrosenstein/Professional-README-Generator/blob/main/Screen%20Shot%202020-10-25%20at%208.22.00%20PM.png?raw=true)](https://drive.google.com/file/d/1xE_T3Tnt--DReXZiyQIyAj9ZUacL7I80/view)
 
 
 ## Screenshot of Sample README.md
